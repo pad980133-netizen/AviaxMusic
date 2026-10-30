@@ -121,7 +121,8 @@ API_KEY=your-api-key-here
 
 3. **Install Deno:**
    ```bash
-   apt-get install unzip && curl -fsSL https://deno.land/install.sh | sh
+   apt-get install unzip && Deno must be installed using a trusted installation method.
+See the official Deno installation documentation.
    ```
 
 3. **Setting up PIP**
@@ -220,4 +221,3 @@ Thanks to all the contributors, supporters, and users of the Aviax Music Bot. Yo
 ---
 
 ⭐ If you like this project, don’t forget to star the repo!
-
